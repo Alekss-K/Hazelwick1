@@ -1,0 +1,6 @@
+user1name=input("enter user1name")
+user2name=input("enter user2name")
+print(user1name)
+print(user2name)
+print(user1name)
+print(user2name)
